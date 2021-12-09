@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://njuhaku.github.io/posts/39358/</loc>
+    
+    <lastmod>2021-12-09</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://njuhaku.github.io/posts/22303/</loc>
     
     <lastmod>2021-12-04</lastmod>
@@ -151,7 +158,7 @@
 
   <url>
     <loc>https://njuhaku.github.io/</loc>
-    <lastmod>2021-12-04</lastmod>
+    <lastmod>2021-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -159,14 +166,14 @@
   
   <url>
     <loc>https://njuhaku.github.io/tags/%E7%89%A9%E7%90%86/</loc>
-    <lastmod>2021-12-04</lastmod>
+    <lastmod>2021-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://njuhaku.github.io/tags/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA/</loc>
-    <lastmod>2021-12-04</lastmod>
+    <lastmod>2021-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -175,14 +182,14 @@
   
   <url>
     <loc>https://njuhaku.github.io/categories/%E4%BE%BF%E7%AD%BE/</loc>
-    <lastmod>2021-12-04</lastmod>
+    <lastmod>2021-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://njuhaku.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-12-04</lastmod>
+    <lastmod>2021-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
