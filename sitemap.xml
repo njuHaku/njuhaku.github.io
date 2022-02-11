@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://njuhaku.github.io/posts/16963/</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://njuhaku.github.io/posts/23366/</loc>
     
     <lastmod>2022-02-11</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://njuhaku.github.io/posts/60403/</loc>
     
     <lastmod>2022-02-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://njuhaku.github.io/posts/16963/</loc>
-    
-    <lastmod>2021-12-19</lastmod>
     
   </url>
   
@@ -249,13 +249,6 @@
   </url>
   
   <url>
-    <loc>https://njuhaku.github.io/tags/%E6%95%A3%E6%96%87/</loc>
-    <lastmod>2022-02-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://njuhaku.github.io/tags/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>daily</changefreq>
@@ -263,7 +256,7 @@
   </url>
   
   <url>
-    <loc>https://njuhaku.github.io/tags/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86/</loc>
+    <loc>https://njuhaku.github.io/tags/%E6%95%A3%E6%96%87/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -271,13 +264,6 @@
   
   <url>
     <loc>https://njuhaku.github.io/tags/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/</loc>
-    <lastmod>2022-02-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://njuhaku.github.io/tags/%E6%99%B6%E4%BD%93/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
